@@ -29,7 +29,7 @@ body {
     --color-bg: #0c0c0c;
     --color-link: #;
 	--color-link-hover: #fff;
-	--color-content-title-sub: #;
+	--color-content-title-sub: #f5d6d6;
     color: var(--color-text);
     background-color: var(--color-bg);
     --cursor-stroke: #6b5537;
