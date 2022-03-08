@@ -25,10 +25,10 @@ main {
 
 body {
 	margin: 0;
-	--color-text: #F4988F;
+	--color-text: #f5d6d6;
     --color-bg: #f4988f;
     --color-link: #f4988f;
-	--color-link-hover: #f4988f;
+	--color-link-hover: #f5d6d6;
 	--color-content-title-sub: #f5d6d6;
     color: var(--color-text);
     background-color: var(--color-bg);
